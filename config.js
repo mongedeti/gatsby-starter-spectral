@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Tecnologia é para todos',
-  subHeading: 'Inicie sua jornada na tecnologia. Aprenda sem pressa e explore de maneira gradual e acessível.',
+  subHeading: 'Inicie sua jornada na tecnologia, aprenda sem pressa e explore de maneira gradual e acessível.',
   // social
   socialLinks: [
     {
