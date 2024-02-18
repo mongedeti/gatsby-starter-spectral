@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
+  siteTitle: 'Monge de TI', // <title>
   manifestName: 'Spectral',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Tecnologia é para todos',
-  subHeading: 'Mergulhe em um mundo de aprendizado, seja você um iniciante ou um entusiasta',
+  subHeading: 'Inicie sua jornada na tecnologia. Aprenda sem pressa e explore de maneira gradual e acessível.',
   // social
   socialLinks: [
     {
