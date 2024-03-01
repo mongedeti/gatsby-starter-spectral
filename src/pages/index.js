@@ -16,21 +16,80 @@ const IndexPage = () => (
         <p>{config.subHeading}</p>
         <ul className="actions special">
           <li>
-            <Scroll type="id" element="one">
-              <a href="/#" className="button primary">
+            <Scroll type="id" element="three">
+              <a href="#three" className="button primary">
                 Explore
               </a>
             </Scroll>
           </li>
         </ul>
       </div>
-      <Scroll type="id" element="one">
-        <a href="#one" className="more">
+      <Scroll type="id" element="three">
+        <a href="#three" className="more">
           Saiba mais
         </a>
       </Scroll>
     </section>
 
+    <section id="three" className="wrapper style3 special">
+      <div className="inner">
+        <header className="major">
+          <h2>Accumsan mus tortor nunc aliquet</h2>
+          <p>
+            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
+            eleifend
+            <br />
+            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
+            ullamcorper.
+          </p>
+        </header>
+        <ul className="features">
+          <li className="icon fa-paper-plane">
+            <h3>Arcu accumsan</h3>
+            <p>
+              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            </p>
+          </li>
+          <li className="icon solid fa-laptop">
+            <h3>Ac Augue Eget</h3>
+            <p>
+              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            </p>
+          </li>
+          <li className="icon solid fa-code">
+            <h3>Mus Scelerisque</h3>
+            <p>
+              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            </p>
+          </li>
+          <li className="icon solid fa-headphones-alt">
+            <h3>Mauris Imperdiet</h3>
+            <p>
+              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            </p>
+          </li>
+          <li className="icon fa-heart">
+            <h3>Aenean Primis</h3>
+            <p>
+              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            </p>
+          </li>
+          <li className="icon fa-flag">
+            <h3>Tortor Ut</h3>
+            <p>
+              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            </p>
+          </li>
+        </ul>
+      </div>
+    </section>
+  
     <section id="one" className="wrapper style1 special">
       <div className="inner">
         <header className="major">
@@ -116,65 +175,6 @@ const IndexPage = () => (
           </p>
         </div>
       </section>
-    </section>
-
-    <section id="three" className="wrapper style3 special">
-      <div className="inner">
-        <header className="major">
-          <h2>Accumsan mus tortor nunc aliquet</h2>
-          <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
-            <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
-          </p>
-        </header>
-        <ul className="features">
-          <li className="icon fa-paper-plane">
-            <h3>Arcu accumsan</h3>
-            <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
-            </p>
-          </li>
-          <li className="icon solid fa-laptop">
-            <h3>Ac Augue Eget</h3>
-            <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
-            </p>
-          </li>
-          <li className="icon solid fa-code">
-            <h3>Mus Scelerisque</h3>
-            <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
-            </p>
-          </li>
-          <li className="icon solid fa-headphones-alt">
-            <h3>Mauris Imperdiet</h3>
-            <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
-            </p>
-          </li>
-          <li className="icon fa-heart">
-            <h3>Aenean Primis</h3>
-            <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
-            </p>
-          </li>
-          <li className="icon fa-flag">
-            <h3>Tortor Ut</h3>
-            <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
-            </p>
-          </li>
-        </ul>
-      </div>
     </section>
 
     <section id="cta" className="wrapper style4">
