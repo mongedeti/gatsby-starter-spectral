@@ -92,16 +92,14 @@ const IndexPage = () => (
             Quais os produtos e serviços que você encontra aqui?
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+            Livros, apostilas, dicas, cursos e até aulas VIP presenciais
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            estão entre as possibilidades para você mergulhar no mundo da tecnologia!
           </p>
         </header>
         <ul className="icons major">
           <li>
-            <span className="icon fa-book-bookmark major style1">
+            <span className="icon fa-gem major style1">
               <span className="label">Lorem</span>
             </span>
           </li>
