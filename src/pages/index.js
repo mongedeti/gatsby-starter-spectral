@@ -89,7 +89,7 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Quais os produtos e serviços que você encontra por aqui?
+            Quais os produtos e serviços que você encontra aqui?
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
