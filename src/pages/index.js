@@ -127,7 +127,7 @@ const IndexPage = () => (
             Livros e apostilas
           </h2>
           <p>
-            Livros autorais, com diversos níveis de aprendizado, para 
+            Livros autorais, em diversos níveis de aprendizado, para 
             que você consiga entender aos poucos o mundo da tecnologia.
           </p>
         </div>
@@ -141,7 +141,7 @@ const IndexPage = () => (
             Aplicativos
           </h2>
           <p>
-            Aplicativos, desenvolvidos por mim ou não, que podem
+            Aplicativos realmente úteis e que podem
             te ajudar muito no dia a dia.
           </p>
         </div>
@@ -152,13 +152,11 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Augue eleifend aliquet
-            <br />
-            sed condimentum
+            Aulas VIP presenciais
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Ofereço este serviço para pessoas realmente interessadas em
+            aulas particulares sobre tecnologia. Entre em contato.
           </p>
         </div>
       </section>
