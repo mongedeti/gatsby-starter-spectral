@@ -92,9 +92,9 @@ const IndexPage = () => (
             Quais os produtos e serviços que você encontra aqui?
           </h2>
           <p>
-            Livros, apostilas, dicas, cursos e até aulas VIP presenciais
+            Livros, apostilas, dicas, cursos e até aulas VIP presenciais estão 
             <br />
-            estão entre as possibilidades para você mergulhar no mundo da tecnologia!
+            entre as alternativas para você mergulhar de vez no mundo da tecnologia!
           </p>
         </header>
         <ul className="icons major">
@@ -124,13 +124,11 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Magna primis lobortis
-            <br />
-            sed ullamcorper
+            Livros e apostilas
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Livros autorais, com diversos níveis de aprendizado, para 
+            que você consiga entender aos poucos o mundo da tecnologia.
           </p>
         </div>
       </section>
@@ -140,13 +138,11 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Tortor dolore feugiat
-            <br />
-            elementum magna
+            Aplicativos
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Aplicativos, desenvolvidos por mim ou não, que podem
+            te ajudar muito no dia a dia.
           </p>
         </div>
       </section>
