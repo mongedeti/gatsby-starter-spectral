@@ -94,7 +94,7 @@ const IndexPage = () => (
           <p>
             Livros, apostilas, dicas, cursos e até aulas VIP presenciais estão 
             <br />
-            entre as alternativas para você mergulhar de vez no mundo da tecnologia!
+            entre as alternativas para você mergulhar no mundo da tecnologia!
           </p>
         </header>
         <ul className="icons major">
@@ -127,7 +127,7 @@ const IndexPage = () => (
             Livros e apostilas
           </h2>
           <p>
-            Livros autorais, em diversos níveis de aprendizado, para 
+            Livros autorais em diversos níveis de aprendizado, para 
             que você consiga entender aos poucos o mundo da tecnologia.
           </p>
         </div>
@@ -152,11 +152,11 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Aulas VIP presenciais
+            Aulas Tech VIP
           </h2>
           <p>
-            Ofereço este serviço para pessoas realmente interessadas em
-            aulas particulares sobre tecnologia. Entre em contato.
+            Ofereço este serviço para pessoas realmente interessadas em aulas 
+            particulares sobre tecnologia, sejam presenciais ou online. Entre em contato.
           </p>
         </div>
       </section>
@@ -165,24 +165,21 @@ const IndexPage = () => (
     <section id="cta" className="wrapper style4">
       <div className="inner">
         <header>
-          <h2>Arcue ut vel commodo</h2>
+          <h2>Meu propósito</h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-            eleifend fringilla.
+            Olá, que bom te ver por aqui! Sou o Gabriel.
+              
+            Sempre fui apaixonado por tecnologia e sabia desde cedo qual seria
+            a minha área de atuação. O tempo passou, estudei muito, trabalhei e ainda 
+            trabalho bastante, aprendi muita coisa e depois de vários anos fui pego por 
+            uma grande nova paixão: compartilhar todo o conhecimento adquirido.
+
+            Descobri que adoro ensinar!
+
+            Espero que você entre nessa comigo e aprenda muito por aqui! 
+            Abraços!
           </p>
         </header>
-        <ul className="actions stacked">
-          <li>
-            <a href="/#" className="button fit primary">
-              Activate
-            </a>
-          </li>
-          <li>
-            <a href="/#" className="button fit">
-              Learn More
-            </a>
-          </li>
-        </ul>
       </div>
     </section>
   </Layout>
