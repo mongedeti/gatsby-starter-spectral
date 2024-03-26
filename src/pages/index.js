@@ -169,12 +169,11 @@ const IndexPage = () => (
           <p>
             Olá, que bom te ver por aqui! Sou o Gabriel.
               
-            Sempre fui apaixonado por tecnologia e sabia desde cedo qual seria
-            a minha área de atuação. O tempo passou, estudei muito, trabalhei e ainda 
-            trabalho bastante, aprendi muita coisa e depois de vários anos fui pego por 
-            uma grande nova paixão: compartilhar todo o conhecimento adquirido.
-
-            Descobri que adoro ensinar!
+            Com uma paixão fervorosa pela tecnologia, trilhei um caminho de aprendizado 
+            e crescimento ao longo dos anos. Meu trabalho consistente e dedicação me levaram
+            a uma profunda apreciação pelo potencial transformador da tecnologia. 
+            Agora, estou empenhado em compartilhar meu conhecimento e experiência para capacitar 
+            outros a se sentirem familiarizados no mundo digital.
 
             Espero que você entre nessa comigo e aprenda muito por aqui! 
             Abraços!
