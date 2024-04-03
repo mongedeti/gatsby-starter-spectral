@@ -9,7 +9,7 @@ import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
 import config from '../../config';
 const IndexPage = () => (
-  <Layout>
+  <Layout fullMenu={false}>
     <section id="banner">
       <div className="inner">
         <h2>{config.heading}</h2>
