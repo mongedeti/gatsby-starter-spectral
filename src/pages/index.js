@@ -94,26 +94,9 @@ const IndexPage = () => (
           <p>
             Livros, apostilas, dicas, cursos e até aulas VIP presenciais estão 
             <br />
-            entre as alternativas para você mergulhar no mundo da tecnologia!
+             entre as alternativas para você mergulhar no mundo da tecnologia!
           </p>
         </header>
-        <ul className="icons major">
-          <li>
-            <span className="icon fa-gem major style1">
-              <span className="label">Lorem</span>
-            </span>
-          </li>
-          <li>
-            <span className="icon fa-heart major style2">
-              <span className="label">Ipsum</span>
-            </span>
-          </li>
-          <li>
-            <span className="icon solid fa-code major style3">
-              <span className="label">Dolor</span>
-            </span>
-          </li>
-        </ul>
       </div>
     </section>
 
