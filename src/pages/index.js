@@ -9,7 +9,7 @@ import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
 import config from '../../config';
 const IndexPage = () => (
-  <Layout fullMenu={false}>
+  <Layout>
     <section id="banner">
       <div className="inner">
         <h2>{config.heading}</h2>
@@ -167,16 +167,16 @@ const IndexPage = () => (
         <header>
           <h2>Meu propósito</h2>
           <p>
-            Olá, que bom te ver por aqui! Sou o Gabriel.
-              
-            Com uma paixão fervorosa pela tecnologia, trilhei um caminho de aprendizado 
-            e crescimento ao longo dos anos. Meu trabalho consistente e dedicação me levaram
-            a uma profunda apreciação pelo potencial transformador da tecnologia. 
-            Agora, estou empenhado em compartilhar meu conhecimento e experiência para capacitar 
-            outros a se sentirem familiarizados no mundo digital.
+            Olá, que bom ter você por aqui! 
 
-            Espero que você entre nessa comigo e aprenda muito por aqui! 
-            Abraços!
+            Me chamo Gabriel, sou completamente apaixonado por tecnologia da informação
+            e carrego comigo uma bagagem de longos anos de estudo, trabalho, pesquisa e 
+            ensino sobre este universo.
+            Acredito genuinamente no potencial transformador da tecnologia e por isso te
+            convido a mergulhar neste oceano comigo, onde poderei compartilhar conhecimentos
+            e experiências que te capacitarão a se sentir familiarizado com o mundo digital.
+
+            Te espero aqui!
           </p>
         </header>
       </div>
