@@ -92,9 +92,8 @@ const IndexPage = () => (
             Quais os produtos e serviços que você encontra aqui?
           </h2>
           <p>
-            Livros, apostilas, dicas, cursos e até aulas VIP presenciais estão 
-            <br />
-             entre as alternativas para você mergulhar no mundo da tecnologia!
+            Livros, apostilas, dicas, cursos e até aulas VIP presenciais estão
+            entre as alternativas para você mergulhar no mundo da tecnologia!
           </p>
         </header>
       </div>
@@ -111,7 +110,7 @@ const IndexPage = () => (
           </h2>
           <p>
             Livros autorais em diversos níveis de aprendizado, para 
-            que você consiga entender aos poucos o mundo da tecnologia.
+            que você consiga aprender gradativamente, na sua velocidade.
           </p>
         </div>
       </section>
@@ -124,8 +123,8 @@ const IndexPage = () => (
             Aplicativos
           </h2>
           <p>
-            Aplicativos realmente úteis e que podem
-            te ajudar muito no dia a dia.
+            Aplicativos realmente úteis para te ajudar
+            no dia a dia.
           </p>
         </div>
       </section>
@@ -138,8 +137,8 @@ const IndexPage = () => (
             Aulas Tech VIP
           </h2>
           <p>
-            Ofereço este serviço para pessoas realmente interessadas em aulas 
-            particulares sobre tecnologia, sejam presenciais ou online. Entre em contato.
+            Aulas particulares sobre tecnologia (presenciais e também online),
+            priorizando sempre os assuntos de seu interesse. Entre em contato.
           </p>
         </div>
       </section>
@@ -157,7 +156,8 @@ const IndexPage = () => (
             ensino sobre este universo.
             Acredito genuinamente no potencial transformador da tecnologia e por isso te
             convido a mergulhar neste oceano comigo, onde poderei compartilhar conhecimentos
-            e experiências que te capacitarão a se sentir familiarizado com o mundo digital.
+            e experiências que te capacitarão a se sentir cada vez mais familiarizado com o 
+            mundo digital.
 
             Te espero aqui!
           </p>
