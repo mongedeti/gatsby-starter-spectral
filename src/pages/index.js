@@ -159,7 +159,7 @@ const IndexPage = () => (
             e experiências que te capacitarão a se sentir cada vez mais familiarizado com o 
             mundo digital.
 
-            Te espero aqui!
+            Um forte abraço!
           </p>
         </header>
       </div>
