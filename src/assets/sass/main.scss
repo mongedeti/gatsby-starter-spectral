@@ -1139,7 +1139,7 @@
 			}
 
 			h2, h3, h4, h5, h6 {
-				color: _palette($p, #000000);
+				color: _palette($p, fg-black);
 			}
 
 			hr {
@@ -1158,7 +1158,7 @@
 
 			header {
 				p {
-					color: _palette($p, #000000);
+					color: _palette($p, fg-black);
 				}
 
 				&.major {
@@ -1167,7 +1167,7 @@
 					}
 
 					p {
-						color: _palette($p, #000000);
+						color: _palette($p, fg-black);
 					}
 				}
 			}
@@ -1265,7 +1265,7 @@
 				}
 
 				th {
-					color: _palette($p, #000000);
+					color: _palette($p, fg-black);
 				}
 
 				thead {
@@ -1347,7 +1347,7 @@
 		}
 
 		&.style3 {
-			@include wrapper(#000000);
+			@include wrapper(fg-black);
 		}
 
 		&.style4 {
