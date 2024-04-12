@@ -37,7 +37,7 @@ const IndexPage = () => (
           <h2>Para quem é este site?</h2>
         </header>
         <ul className="features">
-          <li className="icon fa-paper-plane">
+          <li className="icon fa-user-plus">
             <h3>Pessoas acima dos 50 anos</h3>
             <p>
               Este site é especialmente projetado para pessoas acima dos 50 anos 
