@@ -12,7 +12,6 @@ const IndexPage = () => (
       <section className="wrapper style5">
         <div className="inner">
 					<h5>Alternate</h5>
-					<div className="table-wrapper">
 						<table className="alt">
 							<thead>
 								<tr>
