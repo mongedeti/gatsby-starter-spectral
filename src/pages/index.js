@@ -105,9 +105,9 @@ const IndexPage = () => (
           <img src={pic1} alt="" />
         </div>
         <div className="content">
-          <h2>
-            Livros e apostilas
-          </h2>
+          <a href="https://mongedeti.com.br/Livros" className="button primary">
+                Livros
+          </a>
           <p>
             Livros autorais em diversos níveis de aprendizado, para 
             que você consiga aprender gradativamente, na sua velocidade.
