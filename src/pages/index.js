@@ -119,9 +119,9 @@ const IndexPage = () => (
           <img src={pic2} alt="" />
         </div>
         <div className="content">
-          <h2>
-            Aplicativos
-          </h2>
+          <a href="https://mongedeti.com.br/Aplicativos" className="button primary">
+                Aplicativos
+          </a>
           <p>
             Aplicativos realmente úteis para te ajudar
             no dia a dia.
@@ -133,9 +133,9 @@ const IndexPage = () => (
           <img src={pic3} alt="" />
         </div>
         <div className="content">
-          <h2>
-            Aulas Tech VIP
-          </h2>
+          <a href="https://mongedeti.com.br/Aulas" className="button primary">
+                Aulas TECH VIP
+          </a>
           <p>
             Aulas particulares sobre tecnologia (presenciais e também online),
             priorizando sempre os assuntos de seu interesse. Entre em contato.
