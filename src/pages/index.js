@@ -72,34 +72,6 @@ const IndexPage = () => (
     <section id="two" className="wrapper alt style2">
       <section className="spotlight">
         <div className="image">
-          <img src={pic1} alt="" />
-        </div>
-        <div className="content">
-          <a href="https://mongedeti.com.br/Livros" className="button primary">
-                Livros
-          </a>
-          <p>
-            Livros autorais em diversos níveis de aprendizado, para 
-            que você consiga aprender gradativamente, na sua velocidade.
-          </p>
-        </div>
-      </section>
-      <section className="spotlight">
-        <div className="image">
-          <img src={pic2} alt="" />
-        </div>
-        <div className="content">
-          <a href="https://mongedeti.com.br/Aplicativos" className="button primary">
-                Aplicativos
-          </a>
-          <p>
-            Aplicativos realmente úteis para te ajudar
-            no dia a dia.
-          </p>
-        </div>
-      </section>
-      <section className="spotlight">
-        <div className="image">
           <img src={pic3} alt="" />
         </div>
         <div className="content">
@@ -107,8 +79,8 @@ const IndexPage = () => (
                 Aulas TECH VIP
           </a>
           <p>
-            Aulas particulares sobre tecnologia (presenciais e também online),
-            priorizando sempre os assuntos de seu interesse. Entre em contato.
+            Aulas particulares sobre tecnologia (presenciais ou online),
+            priorizando sempre os assuntos de seu interesse.
           </p>
         </div>
       </section>
@@ -121,13 +93,12 @@ const IndexPage = () => (
           <p>
             Olá, que bom ter você por aqui! 
 
-            Me chamo Gabriel, sou completamente apaixonado por tecnologia da informação
-            e carrego comigo uma bagagem de longos anos de estudo, trabalho, pesquisa e 
-            ensino sobre este universo.
-            Acredito genuinamente no potencial transformador da tecnologia e por isso te
-            convido a mergulhar neste oceano comigo, onde poderei compartilhar conhecimentos
-            e experiências que te capacitarão a se sentir cada vez mais familiarizado com o 
-            mundo digital.
+            Me chamo Gabriel, sou apaixonado por tecnologia da informação e carrego comigo
+            uma bagagem de longos anos de estudo, trabalho, pesquisa e ensino sobre este 
+            universo. Acredito genuinamente no potencial transformador da tecnologia e por
+            isso te convido a mergulhar neste oceano comigo, onde poderei compartilhar 
+            conhecimentos e experiências que te capacitarão a se sentir cada vez mais 
+            familiarizado com o mundo digital.
 
             Um forte abraço!
           </p>
