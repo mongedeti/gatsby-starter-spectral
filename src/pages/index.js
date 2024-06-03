@@ -40,45 +40,15 @@ const IndexPage = () => (
           <li className="icon fa-paper-plane">
             <h3>Pessoas acima dos 50 anos</h3>
             <p>
-              Este site é especialmente projetado para pessoas acima dos 50 anos 
-              que desejam aprender tecnologia de forma gradual e acessível, 
+              Pessoas acima dos 50 anos que desejam aprender tecnologia de forma gradual e acessível, 
               independentemente de sua experiência prévia.
-            </p>
-          </li>
-          <li className="icon solid fa-laptop">
-            <h3>Iniciantes em tecnologia</h3>
-            <p>
-              Aqueles que estão dando os primeiros passos no mundo da tecnologia 
-              e desejam aprender no seu próprio ritmo, sem pressão.
-            </p>
-          </li>
-          <li className="icon solid fa-code">
-            <h3>Sem experiência prévia</h3>
-            <p>
-              Não é necessário ter conhecimento prévio em tecnologia para se beneficiar 
-              dos serviços, pois estou aqui para orientar e apoiar os iniciantes em cada 
-              etapa do caminho.
-            </p>
-          </li>
-          <li className="icon solid fa-headphones-alt">
-            <h3>Curiosos e interessados em aprender</h3>
-            <p>
-              Aqueles que têm curiosidade sobre tecnologia e desejam explorar novos horizontes,
-              juntem-se aqui, em uma comunidade de aprendizado e descoberta.
             </p>
           </li>
           <li className="icon fa-heart">
             <h3>Aposentados em busca de novos desafios</h3>
             <p>
-               Este site é ideal para aposentados que desejam manter suas mentes ativas, expandir
-               seus horizontes e se manterem atualizados com as últimas tecnologias, mesmo sem experiência prévia.
-            </p>
-          </li>
-          <li className="icon fa-flag">
-            <h3>Todos que buscam confiabilidade e apoio</h3>
-            <p>
-              Ambiente acolhedor e amigável, onde todos são bem-vindos e podem aprender com
-              confiança, sabendo que têm apoio ao longo da jornada tecnológica.
+              Aposentados que desejam manter suas mentes ativas, expandir seus horizontes e estarem 
+              atualizados com a evolução tecnológica.
             </p>
           </li>
         </ul>
@@ -89,11 +59,11 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Quais os produtos e serviços que você encontra aqui?
+            O que você encontra aqui?
           </h2>
           <p>
-            Livros, apostilas, dicas, cursos e até aulas VIP presenciais estão
-            entre as alternativas para você mergulhar no mundo da tecnologia!
+            Oportunidade de aprender tecnologia do seu jeito, de acordo com a sua velocidade
+            e focado nas suas metas específicas.
           </p>
         </header>
       </div>
