@@ -86,6 +86,30 @@ const IndexPage = () => (
       </section>
     </section>
 
+    <section id="two" className="wrapper style3 special">
+      <div className="inner">
+        <header className="major">
+          <h2>Perguntas frequentes</h2>
+        </header>
+        <ul className="features">
+          <li className="icon fa-paper-plane">
+            <h3>Pessoas acima dos 50 anos</h3>
+            <p>
+              Pessoas acima dos 50 anos que desejam aprender tecnologia de forma gradual e acessível, 
+              independentemente de sua experiência prévia.
+            </p>
+          </li>
+          <li className="icon fa-heart">
+            <h3>Aposentados em busca de novos desafios</h3>
+            <p>
+              Aposentados que desejam manter suas mentes ativas, expandir seus horizontes e estarem 
+              atualizados com a evolução tecnológica.
+            </p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
     <section id="cta" className="wrapper style4">
       <div className="inner">
         <header>
