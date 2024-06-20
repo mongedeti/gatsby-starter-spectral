@@ -92,14 +92,14 @@ const IndexPage = () => (
           <h2>Perguntas frequentes</h2>
         </header>
         <ul className="features">
-          <li className="icon fa-paper-plane">
+          <li className="one">
             <h3>Pessoas acima dos 50 anos</h3>
             <p>
               Pessoas acima dos 50 anos que desejam aprender tecnologia de forma gradual e acessível, 
               independentemente de sua experiência prévia.
             </p>
           </li>
-          <li className="icon fa-heart">
+          <li className="two">
             <h3>Aposentados em busca de novos desafios</h3>
             <p>
               Aposentados que desejam manter suas mentes ativas, expandir seus horizontes e estarem 
