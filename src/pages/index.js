@@ -86,7 +86,7 @@ const IndexPage = () => (
       </section>
     </section>
 
-    <section id="two" className="wrapper style1 special">
+    <section id="two" className="wrapper style2 special">
       <div className="inner">
         <header className="major">
           <h2>Perguntas frequentes</h2>
