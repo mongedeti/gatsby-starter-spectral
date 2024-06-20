@@ -93,17 +93,31 @@ const IndexPage = () => (
         </header>
         <ul className="features">
           <li className="one">
-            <h3>Pessoas acima dos 50 anos</h3>
+            <h3>Por que Monge de TI?</h3>
             <p>
-              Pessoas acima dos 50 anos que desejam aprender tecnologia de forma gradual e acessível, 
-              independentemente de sua experiência prévia.
+              Durante a minha jornada em TI, me deparei com pessoas agradáveis mas também aquelas mais complicadas. 
+              Foram necessárias a serenidade e a sabedoria de um monge para superar esses desafios e entregar soluções
+              eficazes e de qualidade.
             </p>
           </li>
           <li className="two">
-            <h3>Aposentados em busca de novos desafios</h3>
+            <h3>O que eu posso aprender por aqui?</h3>
             <p>
-              Aposentados que desejam manter suas mentes ativas, expandir seus horizontes e estarem 
-              atualizados com a evolução tecnológica.
+              É justamente você que comanda a pauta. Analise o que é importante para você, necessário ou até mesmo um 
+                gosto. Estarei aqui para te ajudar, te orientando e guiando para que aprenda coisas realmente úteis.
+            </p>
+          </li>
+          <li className="three">
+            <h3>Você sabe tudo?</h3>
+            <p>
+              Não, sou um eterno aprendiz, mas se quisr aprender algo que eu ainda não conheço em tecnologia prometo 
+                  que vou estudar pra te trazer tudo de forma resumida e compreensível.
+            </p>
+          </li>
+          <li className="four">
+            <h3>Consegue me ensinar a utilizar instagram e apps relacionados?</h3>
+            <p>
+              Infelizmente não. Este tipo de conteúdo é super fácil de encontrar por aí. Quero te ensinar algo de valor.
             </p>
           </li>
         </ul>
