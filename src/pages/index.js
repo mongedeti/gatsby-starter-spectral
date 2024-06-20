@@ -120,13 +120,11 @@ const IndexPage = () => (
               Infelizmente não. Este tipo de conteúdo é super fácil de encontrar por aí.
             </p>
           </li>
-          </li>
           <li className="five">
             <h3>Você trabalha com produtos e soluções Apple?</h3>
             <p>
               Não. O objetivo aqui é te orientar e te ensinar, principalmente em um cenário de baixo custo e acessibilidade.
             </p>
-          </li>
           </li>
           <li className="six">
             <h3>Sua agenda deve ser concorrida e seu valor / hora alto, não?</h3>
@@ -134,6 +132,7 @@ const IndexPage = () => (
               Eu descobri que gosto de ensinar. Você não precisa me pagar. Eu só quero te ensinar.
                     Leia o meu propósito logo abaixo.
             </p>
+          </li>
         </ul>
       </div>
     </section>
