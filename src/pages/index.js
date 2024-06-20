@@ -110,16 +110,30 @@ const IndexPage = () => (
           <li className="three">
             <h3>Você sabe tudo?</h3>
             <p>
-              Não, sou um eterno aprendiz, mas se quisr aprender algo que eu ainda não conheço em tecnologia prometo 
+              Não, sou um eterno aprendiz, mas se quiser aprender algo que eu ainda não conheço em tecnologia prometo 
                   que vou estudar pra te trazer tudo de forma resumida e compreensível.
             </p>
           </li>
           <li className="four">
             <h3>Consegue me ensinar a utilizar instagram e apps relacionados?</h3>
             <p>
-              Infelizmente não. Este tipo de conteúdo é super fácil de encontrar por aí. Quero te ensinar algo de valor.
+              Infelizmente não. Este tipo de conteúdo é super fácil de encontrar por aí.
             </p>
           </li>
+          </li>
+          <li className="five">
+            <h3>Você trabalha com produtos e soluções Apple?</h3>
+            <p>
+              Não. O objetivo aqui é te orientar e te ensinar, principalmente em um cenário de baixo custo e acessibilidade.
+            </p>
+          </li>
+          </li>
+          <li className="six">
+            <h3>Sua agenda deve ser concorrida e seu valor / hora alto, não?</h3>
+            <p>
+              Eu descobri que gosto de ensinar. Você não precisa me pagar. Eu só quero te ensinar.
+                    Leia o meu propósito logo abaixo.
+            </p>
         </ul>
       </div>
     </section>
