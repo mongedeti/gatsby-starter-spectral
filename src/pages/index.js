@@ -97,7 +97,7 @@ const IndexPage = () => (
             <p>
               Durante a minha jornada em TI, me deparei com pessoas agradáveis mas também aquelas mais complicadas. 
               Foram necessárias a serenidade e a sabedoria de um monge para superar esses desafios e entregar soluções
-              eficazes e de qualidade.
+              de qualidade.
             </p>
           </li>
           <li className="two">
