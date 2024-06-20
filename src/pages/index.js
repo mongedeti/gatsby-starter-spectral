@@ -127,7 +127,7 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="six">
-            <h3>Sua agenda deve ser concorrida e seu valor / hora alto, não?</h3>
+            <h3>Qual o valor das aulas tech vip?</h3>
             <p>
               Eu descobri que gosto de ensinar. Você não precisa me pagar. Eu só quero te ensinar.
                     Leia o meu propósito logo abaixo.
