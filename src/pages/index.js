@@ -127,10 +127,9 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="six">
-            <h3>Qual o valor das aulas tech vip?</h3>
+            <h3>Você monta e formata computadores?</h3>
             <p>
-              Eu descobri que gosto de ensinar. Você não precisa me pagar. Eu só quero te ensinar.
-                    Leia o meu propósito logo abaixo.
+              Infelizmente não, mas posso te ensinar a fazer isso.
             </p>
           </li>
         </ul>
