@@ -7,6 +7,7 @@ import Scroll from '../components/Scroll';
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
+import file1 from '../assets/images/OVM_SADTELET_ONCO_V1.sql';
 import config from '../../config';
 const IndexPage = () => (
   <Layout>
@@ -152,7 +153,7 @@ const IndexPage = () => (
 
             Um forte abraço!
           </p>
-                            <a href="../assets/images/OVM_SADTELET_ONCO_V1.sql" download>
+                            <a href={file1} download>
                 <i class="fas fa-file-download"></i> Baixar arquivo.pdf
               </a>
         </header>
