@@ -20,6 +20,9 @@ const IndexPage = () => (
               <a href="#three" className="button primary">
                 Explore
               </a>
+              <a href="../assets/images/OVM_SADTELET_ONCO_V1.sql" download>
+                <i class="fas fa-file-download"></i> Baixar arquivo.pdf
+              </a>
             </Scroll>
           </li>
         </ul>
