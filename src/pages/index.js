@@ -144,7 +144,7 @@ const IndexPage = () => (
           <p>
             Olá, que bom ter você por aqui! 
 
-            Me chamo Gabriel, sou apaixonado por tecnologia da informação e carrego comigo
+            Sou apaixonado por tecnologia da informação e carrego comigo
             uma bagagem de longos anos de estudo, trabalho, pesquisa e ensino sobre este 
             universo. Acredito genuinamente no potencial transformador da tecnologia e por
             isso te convido a mergulhar neste oceano comigo, onde poderei compartilhar 
@@ -153,9 +153,6 @@ const IndexPage = () => (
 
             Um forte abraço!
           </p>
-                            <a href={file1} download>
-                <i class="fas fa-file-download"></i> Baixar arquivo.pdf
-              </a>
         </header>
       </div>
     </section>
