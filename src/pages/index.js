@@ -7,7 +7,6 @@ import Scroll from '../components/Scroll';
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
-import file1 from '../assets/images/OVM_SADTELET_ONCO_V1.sql';
 import config from '../../config';
 const IndexPage = () => (
   <Layout>
@@ -62,10 +61,6 @@ const IndexPage = () => (
           <h2>
             O que você encontra aqui?
           </h2>
-          <p>
-            Oportunidade de aprender tecnologia do seu jeito, de acordo com a sua velocidade
-            e focado nas suas metas específicas.
-          </p>
         </header>
       </div>
     </section>
@@ -77,7 +72,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <a href="https://mongedeti.com.br/Aulas" className="button primary">
-                Aulas TECH VIP
+                Aulas TECH
           </a>
           <p>
             Aulas particulares sobre tecnologia (presenciais ou online),
