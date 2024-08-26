@@ -80,6 +80,20 @@ const IndexPage = () => (
           </p>
         </div>
       </section>
+      <section className="spotlight">
+        <div className="image">
+          <img src={pic1} alt="" />
+        </div>
+        <div className="content">
+          <a href="https://mongedeti.com.br/Aulas" className="button primary">
+                Livraria Digital
+          </a>
+          <p>
+            Aulas particulares sobre tecnologia (presenciais ou online),
+            priorizando sempre os assuntos de seu interesse.
+          </p>
+        </div>
+      </section>              
     </section>
 
     <section id="two" className="wrapper style2 special">
