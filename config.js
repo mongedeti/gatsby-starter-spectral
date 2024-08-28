@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Tecnologia é para todos',
-  subHeading: 'Inicie sua jornada na tecnologia, aprenda sem pressa e explore de maneira gradual e acessível.',
+  heading: 'Monge de TI',
+  subHeading: 'Acredito no poder transformador da tecnologia, e por isso decidi utilizá-la para gerar esta grande variedade de conteúdos que você está por descobrir!',
   // social
   socialLinks: [
     {
