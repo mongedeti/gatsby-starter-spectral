@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Monge de TI',
-  subHeading: 'Acredito no poder transformador da tecnologia, e por isso decidi utilizá-la para gerar esta grande variedade de conteúdos que você está por descobrir!',
+  subHeading: 'Acredito no poder transformador da tecnologia e por isso decidi criar esta grande variedade de conteúdos que você está por descobrir.',
   // social
   socialLinks: [
     {
