@@ -7,6 +7,7 @@ import Scroll from '../components/Scroll';
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
+import pic6 from '../assets/images/pic06.jpg';
 import config from '../../config';
 const IndexPage = () => (
   <Layout>
@@ -74,7 +75,7 @@ const IndexPage = () => (
       </section>
       <section className="spotlight">
         <div className="image">
-          <img src={pic1} alt="" />
+          <img src={pic6} alt="" />
         </div>
         <div className="content">
           <a href="https://mongedeti.com.br/Aulas" className="button primary">
