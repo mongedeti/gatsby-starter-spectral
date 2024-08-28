@@ -81,9 +81,9 @@ const IndexPage = () => (
                 Livraria Kids
           </a>
           <p>
-            Livros infantis com histórias leves e com bons valores como
-            amizade, coragem, amor, família e fé. Agora você pode ler para seus
-            filhos e netos histórias que vão educar s inspirar as novas gerações.
+            Livros infantis com histórias leves sobre amizade, coragem, amor e família. 
+            Agora você pode ler para seus filhos e netos histórias que vão educar e 
+            inspirar as novas gerações.
           </p>
         </div>
       </section>
@@ -111,7 +111,7 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="three">
-            <h3>Histórias infantis e conteúdos diversos em um site de tecnologia?</h3>
+            <h3>Histórias infantis em um site de tecnologia?</h3>
             <p>
               Sim, sou pai e descobri que a tecnologia pode ser uma aliada poderosa na criação de conteúdo de qualidade
                   para os mais jovens.
