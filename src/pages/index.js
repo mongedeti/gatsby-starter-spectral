@@ -30,31 +30,7 @@ const IndexPage = () => (
         </a>
       </Scroll>
     </section>
-
-    <section id="three" className="wrapper style3 special">
-      <div className="inner">
-        <header className="major">
-          <h2>Para quem é este site?</h2>
-        </header>
-        <ul className="features">
-          <li className="icon fa-paper-plane">
-            <h3>Pessoas acima dos 50 anos</h3>
-            <p>
-              Pessoas acima dos 50 anos que desejam aprender tecnologia de forma gradual e acessível, 
-              independentemente de sua experiência prévia.
-            </p>
-          </li>
-          <li className="icon fa-heart">
-            <h3>Aposentados em busca de novos desafios</h3>
-            <p>
-              Aposentados que desejam manter suas mentes ativas, expandir seus horizontes e estarem 
-              atualizados com a evolução tecnológica.
-            </p>
-          </li>
-        </ul>
-      </div>
-    </section>
-  
+ 
     <section id="one" className="wrapper style1 special">
       <div className="inner">
         <header className="major">
@@ -72,7 +48,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <a href="https://mongedeti.com.br/Aulas" className="button primary">
-                Aulas TECH
+                Aulas Tech
           </a>
           <p>
             Aulas particulares sobre tecnologia (presenciais ou online),
@@ -86,14 +62,31 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <a href="https://mongedeti.com.br/Aulas" className="button primary">
-                Livraria Digital
+                Livraria Tech
           </a>
           <p>
-            Aulas particulares sobre tecnologia (presenciais ou online),
-            priorizando sempre os assuntos de seu interesse.
+            Livros autorais para diferentes níveis de conhecimento. Aprenda
+            o básico, descubra alguma área de seu interesse ou entenda os 
+            detalhes do mundo da tecnologia compartilhados por quem vive isso
+            há décadas.
           </p>
         </div>
-      </section>              
+      </section>
+      <section className="spotlight">
+        <div className="image">
+          <img src={pic1} alt="" />
+        </div>
+        <div className="content">
+          <a href="https://mongedeti.com.br/Aulas" className="button primary">
+                Livraria Kids
+          </a>
+          <p>
+            Livros infantis com histórias leves e com bons valores como
+            amizade, coragem, amor, família e fé. Agora você pode ler para seus
+            filhos e netos histórias que vão educar s inspirar as novas gerações.
+          </p>
+        </div>
+      </section>
     </section>
 
     <section id="two" className="wrapper style2 special">
@@ -118,10 +111,10 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="three">
-            <h3>Você sabe tudo?</h3>
+            <h3>Histórias infantis e conteúdos diversos em um site de tecnologia?</h3>
             <p>
-              Não, sou um eterno aprendiz, mas se quiser aprender algo que eu ainda não conheço em tecnologia prometo 
-                  que vou estudar pra te trazer tudo de forma resumida e compreensível.
+              Sim, sou pai e descobri que a tecnologia pode ser uma aliada poderosa na criação de conteúdo de qualidade
+                  para os mais jovens.
             </p>
           </li>
           <li className="four">
@@ -156,9 +149,9 @@ const IndexPage = () => (
             Sou apaixonado por tecnologia da informação e carrego comigo
             uma bagagem de longos anos de estudo, trabalho, pesquisa e ensino sobre este 
             universo. Acredito genuinamente no potencial transformador da tecnologia e por
-            isso te convido a mergulhar neste oceano comigo, onde poderei compartilhar 
-            conhecimentos e experiências que te capacitarão a se sentir cada vez mais 
-            familiarizado com o mundo digital.
+            isso te convido a mergulhar neste oceano comigo, seja no aprendizado gradual e
+            acessível através das aulas e livros de tecnologia, como também no consumo de conteúdos
+            voltados à leitura e entretenimento para os mais jovens.
 
             Um forte abraço!
           </p>
