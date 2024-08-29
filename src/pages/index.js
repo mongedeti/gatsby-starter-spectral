@@ -66,7 +66,7 @@ const IndexPage = () => (
                 Livraria Tech
           </a>
           <p>
-            Livros autorais para diferentes níveis de conhecimento. Aprenda
+            Livros para diferentes níveis de conhecimento. Aprenda
             o básico, descubra alguma área de seu interesse ou entenda os 
             detalhes do mundo da tecnologia compartilhados por quem vive isso
             há décadas.
