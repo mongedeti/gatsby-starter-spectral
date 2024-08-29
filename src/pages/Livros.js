@@ -6,8 +6,9 @@ const IndexPage = () => (
   <Layout fullMenu>
     <article id="main">
       <header>
-        <h2>Livros</h2>
-        <p>Livros autorais em diversos níveis de aprendizado, para que você consiga aprender gradativamente, na sua velocidade.</p>
+        <h2>Livraria Tech</h2>
+        <p>Livros para diferentes níveis de conhecimento. Aprenda o básico, descubra alguma área de seu interesse
+	ou entenda os detalhes do mundo da tecnologia compartilhados por quem vive isso há décadas.</p>
       </header>
       <section className="wrapper style5">
         <div className="inner">
