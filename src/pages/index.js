@@ -62,7 +62,7 @@ const IndexPage = () => (
           <img src={pic1} alt="" />
         </div>
         <div className="content">
-          <a href="https://mongedeti.com.br/Aulas" className="button primary">
+          <a href="https://mongedeti.com.br/Livros" className="button primary">
                 Livraria Tech
           </a>
           <p>
@@ -78,7 +78,7 @@ const IndexPage = () => (
           <img src={pic6} alt="" />
         </div>
         <div className="content">
-          <a href="https://mongedeti.com.br/Aulas" className="button primary">
+          <a href="https://mongedeti.com.br/Livrosk" className="button primary">
                 Livraria Kids
           </a>
           <p>
