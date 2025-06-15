@@ -17,7 +17,7 @@ const IndexPage = () => (
         <p>{config.subHeading}</p>
         <ul className="actions special">
           <li>
-            <Scroll type="id" element="three">
+            <Scroll type="id" element="one">
               <a href="#one" className="button primary">
                 Explore
               </a>
@@ -25,7 +25,7 @@ const IndexPage = () => (
           </li>
         </ul>
       </div>
-      <Scroll type="id" element="three">
+      <Scroll type="id" element="one">
         <a href="#one" className="more">
           Saiba mais
         </a>
