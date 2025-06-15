@@ -147,11 +147,11 @@ const IndexPage = () => (
           <p>
             Olá, que bom ter você por aqui! 
 
-            Sou apaixonado por tecnologia da informação e carrego comigo
-            uma bagagem de longos anos de estudo, trabalho, pesquisa e ensino sobre este 
+            Sou apaixonado por tecnologia e carrego comigo uma bagagem de 
+            longos anos de estudo, trabalho, pesquisa e ensino sobre este 
             universo. Acredito genuinamente no potencial transformador da tecnologia e por
             isso te convido a mergulhar neste oceano comigo, seja no aprendizado gradual e
-            acessível através das aulas e livros de tecnologia, como também no consumo de conteúdos
+            acessível através dos cursos e livros, como também no consumo de conteúdos
             voltados à leitura e entretenimento para os mais jovens.
 
             Um forte abraço!
