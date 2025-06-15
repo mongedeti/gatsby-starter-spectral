@@ -49,11 +49,11 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <a href="https://mongedeti.com.br/Aulas" className="button primary">
-                Aulas Tech
+                Cursos Tech
           </a>
           <p>
-            Aulas particulares sobre tecnologia (presenciais ou online),
-            priorizando sempre os assuntos de seu interesse.
+            Cursos sobre tecnologia em um escopo que abrange 
+            assuntos e complexidade variados.
           </p>
         </div>
       </section>
