@@ -6,8 +6,8 @@ const IndexPage = () => (
   <Layout fullMenu>
     <article id="main">
       <header>
-        <h2>Aulas particulares</h2>
-        <p>Aulas particulares sobre tecnologia (presenciais e também online), priorizando sempre os assuntos de seu interesse.</p>
+        <h2>Cursos Tech</h2>
+        <p>Cursos sobre tecnologia em um escopo que abrange assunto e complexidade variados.</p>
       </header>
       <section className="wrapper style5">
         <div className="inner">

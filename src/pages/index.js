@@ -53,7 +53,7 @@ const IndexPage = () => (
           </a>
           <p>
             Cursos sobre tecnologia em um escopo que abrange 
-            assuntos e complexidade variados.
+            assunto e complexidade variados.
           </p>
         </div>
       </section>
