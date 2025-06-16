@@ -11,25 +11,43 @@ const IndexPage = () => (
       </header>
       <section className="wrapper style5">
         <div className="inner">
-          <h3>Em breve</h3>
-          <p>
-            Em breve.
-          </p>
-
-          <p>
-            Em breve.
-          </p>
-
-          <hr />
-
-          <h4>Em breve</h4>
-          <p>
-            Em breve.
-          </p>
-
-          <p>
-            Em breve.
-          </p>
+			<table className="alt">
+			  <tbody>
+				<tr>
+				  <td>
+					<a
+					  href="https://drive.google.com/uc?export=download&id=1hQdhWmHVuXurwo3gVLu4jDaWwQ3b5stO"
+					  target="_blank"
+					  rel="noopener noreferrer"
+					>
+					  Criptomoedas - Episódio 1
+					</a>
+				  </td>
+				</tr>
+				<tr>
+				  <td>
+					<a
+					  href="https://drive.google.com/uc?export=download&id=SEU_ID_2"
+					  target="_blank"
+					  rel="noopener noreferrer"
+					>
+					  Criptomoedas - Episódio 2
+					</a>
+				  </td>
+				</tr>
+				<tr>
+				  <td>
+					<a
+					  href="https://drive.google.com/uc?export=download&id=SEU_ID_3"
+					  target="_blank"
+					  rel="noopener noreferrer"
+					>
+					  Criptomoedas - Episódio 3
+					</a>
+				  </td>
+				</tr>
+			  </tbody>
+			</table>
         </div>
       </section>
     </article>
