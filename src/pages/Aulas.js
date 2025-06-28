@@ -27,7 +27,7 @@ const IndexPage = () => (
 				<tr>
 				  <td>
 					<a
-					  href="https://drive.google.com/uc?export=download&id=SEU_ID_2"
+					  href="https://drive.google.com/uc?export=download&id=1hQdhWmHVuXurwo3gVLu4jDaWwQ3b5stO"
 					  target="_blank"
 					  rel="noopener noreferrer"
 					>
@@ -42,7 +42,7 @@ const IndexPage = () => (
 					  target="_blank"
 					  rel="noopener noreferrer"
 					>
-					  Criptomoedas - Episódio 3
+					  Criptomoedas - Episódio 3 (em breve)
 					</a>
 				  </td>
 				</tr>
