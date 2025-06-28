@@ -27,7 +27,7 @@ const IndexPage = () => (
 				<tr>
 				  <td>
 					<a
-					  href="https://drive.google.com/uc?export=download&id=1hQdhWmHVuXurwo3gVLu4jDaWwQ3b5stO"
+					  href="https://drive.google.com/uc?export=download&id=12rBrMSe0nXUUkkYDaZkajIdtM23WXnsC"
 					  target="_blank"
 					  rel="noopener noreferrer"
 					>
@@ -43,6 +43,28 @@ const IndexPage = () => (
 					  rel="noopener noreferrer"
 					>
 					  Criptomoedas - Episódio 3 (em breve)
+					</a>
+				  </td>
+				</tr>
+				<tr>
+				  <td>
+					<a
+					  href="https://drive.google.com/uc?export=download&id=1hQdhWmHVuXurwo3gVLu4jDaWwQ3b5stO"
+					  target="_blank"
+					  rel="noopener noreferrer"
+					>
+					  Criptomoedas - Episódio 4 (em breve)
+					</a>
+				  </td>
+				</tr>
+				<tr>
+				  <td>
+					<a
+					  href="https://drive.google.com/uc?export=download&id=1hQdhWmHVuXurwo3gVLu4jDaWwQ3b5stO"
+					  target="_blank"
+					  rel="noopener noreferrer"
+					>
+					  Criptomoedas - Episódio 5 (em breve)
 					</a>
 				  </td>
 				</tr>
